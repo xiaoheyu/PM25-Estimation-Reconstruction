@@ -9,7 +9,7 @@ Input predictor variables includes meterological parameters form ECMWF, Next Gen
 landcover, and Global lithology. Among these variables, ECMWF and GOES16 AOD will be automatically downloaded with the code, the rest static variables will be stored in a separate cloud drive due to the large size. NEXRAD is not a mandatoary input predictor for PM2.5 estimation. If needed, the NEXRAD mosaic for the US can be generated through the code in NEXRAD/mosaic_grid_US_0-10km_11lev_10km_dailyshift.py
 
 
-###############################################################################################################
+################################################################################################################
 To run the code, put the downloaded static variable directly under the folder PM25-Estimation-Reconstruction.
 
 Code sample:
