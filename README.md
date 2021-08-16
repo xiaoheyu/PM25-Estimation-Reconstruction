@@ -20,6 +20,9 @@ mosaic_grid_US_0-10km_11lev_10km_dailyshift.py 2020 01 06 2020 01 06 # Generate 
 mosaic_grid_US_0-10km_11lev_10km_dailyshift.py 2020 01 06 2020 01 08 # Generate mosaic through 2020/01 06 to 2020/01/08 at hourly interval
 
 
+The opMain.html is and jupyter lab demonstration of the work estimation workflow. 
+
+
 
 
 
