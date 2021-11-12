@@ -1,5 +1,5 @@
 # Project Overview 
-#### Please refer to the paper for the project of PM2.5 estimation and reconstruction.
+#### Please cite and refer to the paper for details.
 #### There are 4 stages for the entire project.
 #### Stage 1 (Code available in repo PM25-DataSource): Data download and visulization, including ECMWF, PBLH, GOES16-AOD, Landcover, Soil order, Population density, Elevation, and Lithology.
 #### Stage 2 (Code available repo PM25-DataMaching): Once data are downloaded, all variables will be macthed with PM2.5 groupd observation. A macthed data table is generated for machine learning model training.
